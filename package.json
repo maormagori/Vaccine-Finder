@@ -1,0 +1,18 @@
+{
+  "name": "torim",
+  "version": "1.0.0",
+  "description": "Find vaccination appointments for soldiers in mid-Israel",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "beepbeep": "^1.3.0",
+    "delay": "^5.0.0",
+    "dotenv": "^10.0.0"
+  }
+}
